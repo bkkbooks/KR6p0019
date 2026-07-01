@@ -1,0 +1,99 @@
+canonical_identifier: bkk:krp/KR6p0019/v1
+canonical_location: https://kanripo.org/bkk/KR6p0019/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 阿彌陀經疏鈔
+  identifiers:
+    alt_id:
+    - X22n0424
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X22/X22n0424.xml
+    old_id: X22n0424
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0019_000.yaml, hash: 'sha256:c13d226f1dff63b86a701454b20260996801292cc3f321e960aff5ca2db89f0b'}
+  - {seq: 1, filename: KR6p0019_001.yaml, hash: 'sha256:36132a6e16881275d4546893db320ec99deb416cc2d3a4acaee8a55a40179ab0'}
+  - {seq: 2, filename: KR6p0019_002.yaml, hash: 'sha256:b214dc75f99fe778e7777cd46fa6efcc25a1c3a15c4b92c0b93c7712f2c464c4'}
+  - {seq: 3, filename: KR6p0019_003.yaml, hash: 'sha256:7ee90c1e6b7d332ff6c8a79db0f2301f7ac3d2d13aa8804a8b7f05c80b39eea4'}
+  - {seq: 4, filename: KR6p0019_004.yaml, hash: 'sha256:50f136cce0ed2ec597eebf7ffeab4280386b7be55866722803be3ed2c89e9a74'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0019_000.markers.yaml, hash: 'sha256:87a2eb6c0640adc7e60f6e55b2f0a8821411e552efeb00ceb8094d14783ae39a'}
+  - {seq: 1, role: markers, filename: assets/KR6p0019_001.markers.yaml, hash: 'sha256:cc3854556377e588c9a5e5cdd3aed069ed631fac4ee9900b49250e1828b4bef1'}
+  - {seq: 2, role: markers, filename: assets/KR6p0019_002.markers.yaml, hash: 'sha256:edf2adf4231abee311c5d6241bd2ce81723f0197b5b70fedea1898c1125490ac'}
+  - {seq: 3, role: markers, filename: assets/KR6p0019_003.markers.yaml, hash: 'sha256:f0e07ff24692b7d45773188bbaa98679a87944924b6577c2916b9b5046a00faa'}
+  - {seq: 4, role: markers, filename: assets/KR6p0019_004.markers.yaml, hash: 'sha256:81e07413de0d7fc25fcb77d84505f75e92ae10e171d48adafa7c25582befa85f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0019_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 424-A 阿彌陀經疏鈔總科
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0019_X_000-mulu-2
+    span:
+    - front
+    - 1024
+    - 1024
+  label: 阿彌陀經疏鈔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0019_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 23145
+  label: 佛說阿彌陀經疏鈔卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0019_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 26458
+  label: 佛說阿彌陀經疏鈔卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0019_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 26033
+  label: 佛說阿彌陀經疏鈔卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0019_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 23680
+  label: 佛說阿彌陀經疏鈔卷第四
+  type: juan
+  level: 1
+hash: sha256:09a5de454747509fe63027788388da87406195045aa3e2d531d3a778668f6020
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
