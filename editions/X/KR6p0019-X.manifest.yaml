@@ -19,13 +19,13 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0019_000-X.yaml, hash: 'sha256:bd736804aa9f3681fafccaca4f9e2a1630a1de93cfddf31adc9580aecdef872f'}
+  - {seq: 0, filename: KR6p0019_000-X.yaml, hash: 'sha256:d6112e747084df83e434727c32443a025b8b1b9a05ae56989b8d24773783088f'}
   - {seq: 1, filename: KR6p0019_001-X.yaml, hash: 'sha256:bfebc1f9e6eb9164df98b594f2c0d5b12b37675dea0f40da7f2ac44846d2ebdb'}
   - {seq: 2, filename: KR6p0019_002-X.yaml, hash: 'sha256:69cbce0de54060710df1fced1839b8e9a613bcbc16c333e1de9ec9c5b43073ef'}
   - {seq: 3, filename: KR6p0019_003-X.yaml, hash: 'sha256:07ef0b137c08298d2109cf995b0955863ce6fdd4c2224301ae6b88bf0801616b'}
   - {seq: 4, filename: KR6p0019_004-X.yaml, hash: 'sha256:5e5134f1fa4f73ee19d615e7075c724531fafdd94d242a47c01019dfcc4acb67'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0019_000-X.markers.yaml, hash: 'sha256:0197bffb5ba5d6338597450537efacc36ec39a0ba898ee5f7f2a4fd92142fcbf'}
+  - {seq: 0, role: markers, filename: assets/KR6p0019_000-X.markers.yaml, hash: 'sha256:228127c8066260763c9e258c03ebb2179a9b759494ef81b1b6b4e67b1669ef67'}
   - {seq: 1, role: markers, filename: assets/KR6p0019_001-X.markers.yaml, hash: 'sha256:39e4ff9feecf6384d53c401dd27c4d01b937079370c4b241021cdb9aea136bb0'}
   - {seq: 2, role: markers, filename: assets/KR6p0019_002-X.markers.yaml, hash: 'sha256:b1fbbcf230d6f6866929d2e648a5b4e16be42989ad257423dc855524d133a7db'}
   - {seq: 3, role: markers, filename: assets/KR6p0019_003-X.markers.yaml, hash: 'sha256:d9c710bbafc63a133409d4178d28676b401fef01acb78181bc624e042426c6d8'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0019_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 424-A 阿彌陀經疏鈔總科
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0019_X_000-mulu-2
     span:
-    - front
+    - body
     - 1024
     - 1024
   label: 阿彌陀經疏鈔
@@ -91,4 +91,4 @@ table_of_contents:
   label: 佛說阿彌陀經疏鈔卷第四
   type: juan
   level: 1
-hash: sha256:92902dc1a0751e251eb2a58230d5d8cfe6c575fb821047026d44c2689667dfed
+hash: sha256:d39f3d40f4d4d15be080ba0066b3c54c3a9289449a6b72617b31c3d8854e20d5
